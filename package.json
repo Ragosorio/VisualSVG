@@ -14,7 +14,7 @@
   "contributes": {
     "commands": [
       {
-            "command": "extension.showSelectedSVG",
+            "command": "extension.showSelectedSVGByCode",
             "title": "View SVG by code"
       }
     ]
