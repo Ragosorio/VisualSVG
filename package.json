@@ -15,6 +15,13 @@
   "main": "./out/extension.js",
   "contributes": {
     "menus": {
+      "editor/context": [
+        {
+            "command": "extension.showSelectedSVGByCode",
+            "when": "editorHasSelection",
+            "group": "navigation"
+        }
+    ],
       "explorer/context": [
         {
           "command": "extension.viewSvg",
@@ -30,7 +37,7 @@
       },
       {
         "command": "extension.showSelectedSVGByCode",
-        "title": "View SVG by code"
+        "title": "View SVG"
       }
     ]
   },
