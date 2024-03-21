@@ -1,9 +1,11 @@
 import * as vscode from 'vscode';
 import { showSelectedSVGByCode } from './functions/svgViewerByCode';
 import { activateSVGViewerByClick, deactivateSVGViewerByClick } from './functions/svgViewerByClick';
+import { activateSvgViewerByFile } from './functions/svgViewerByFile';
 
 export function activate(context: vscode.ExtensionContext) {
     activateSVGViewerByClick(context);
+    activateSvgViewerByFile(context);
 
     let disposableShowByCode = vscode.commands.registerCommand('extension.showSelectedSVGByCode', () => {
         showSelectedSVGByCode(context);

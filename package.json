@@ -14,10 +14,23 @@
   ],
   "main": "./out/extension.js",
   "contributes": {
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "extension.viewSvg",
+          "when": "resourceFilename =~ /\\.svg$/",
+          "group": "navigation"
+        }
+      ]
+    },
     "commands": [
       {
-            "command": "extension.showSelectedSVGByCode",
-            "title": "View SVG by code"
+        "command": "extension.viewSvg",
+        "title": "View SVG"
+      },
+      {
+        "command": "extension.showSelectedSVGByCode",
+        "title": "View SVG by code"
       }
     ]
   },
