@@ -10,7 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:xml"
+    "onLanguage:html",
+    "onLanguage:astro",
+    "onLanguage:xml",
+    "onLanguage:javascript",
+    "onLanguage:javascriptreact",
+    "onLanguage:typescript",
+    "onLanguage:typescriptreact"
   ],
   "main": "./out/extension.js",
   "contributes": {
@@ -38,6 +44,12 @@
       {
         "command": "extension.showSelectedSVGByCode",
         "title": "View SVG"
+      }
+    ],
+    "hoverProvider": [
+      {
+        "language": "*",
+        "pattern": "<svg"
       }
     ]
   },
