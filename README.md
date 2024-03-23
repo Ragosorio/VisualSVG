@@ -5,16 +5,16 @@
 ## Features
 
 - **SVG Hover Visualization**
-![]()
+![](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif1.gif)
 
 - **SVG Click Visualization**
-![]()
+![](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif2.gif)
 
 - **SVG File Visualization** 
-![]()
+![](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif3.gif)
 
 - **SVG File Click**
-![]()
+![](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif4.gif)
 
 
 ## Requirements
