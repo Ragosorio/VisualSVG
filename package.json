@@ -2,7 +2,7 @@
   "name": "visualsvg",
   "displayName": "VisualSVG",
   "description": "The most advanced SVG viewer in VSCODE.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "images/logo.png",
   "galleryBanner": {
     "color": "#264653",
