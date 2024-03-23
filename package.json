@@ -5,7 +5,7 @@
   "version": "1.0.1",
   "icon": "images/logo.png",
   "galleryBanner": {
-    "color": "#c80000",
+    "color": "#264653",
     "theme": "dark"
   },
   "repository": {
