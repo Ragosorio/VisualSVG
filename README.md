@@ -20,7 +20,7 @@ There are no specific requirements or dependencies for using the **VisualSVG** e
 
 ## Known Issues
 
-No known issues at the moment. If you encounter any problems or unexpected behavior, please report them on the [GitHub issues page](https://github.com/your-username/visualsvg/issues).
+No known issues at the moment. If you encounter any problems or unexpected behavior, please report them on the [GitHub issues page](https://github.com/Ragosorio/VisualSVG/issues).
 
 ## Release Notes
 
