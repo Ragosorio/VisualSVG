@@ -3,12 +3,17 @@
   "displayName": "VisualSVG",
   "description": "The most advanced SVG viewer in VSCODE.",
   "version": "1.0.0",
+  "icon": "imgs/logo.png",
+  "galleryBanner": {
+    "color": "#c80000",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Ragosorio/VisualSVG"
   },
+  "homepage": "https://github.com/Ragosorio/VisualSVG/blob/main/README.md",
   "publisher": "ragosorio",
-  "icon": "imgs/logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
