@@ -5,19 +5,19 @@
 ## Features
 
 - **SVG Hover Visualization**
-![demo](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif1.gif)
+![https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif1.gif](https://github.com/Ragosorio/VisualSVG/blob/main/images/Gif1.gif)
 
 
 - **SVG Click Visualization**
-![demo](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif2.gif)
+![https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif2.gif](https://github.com/Ragosorio/VisualSVG/blob/main/images/Gif2.gif)
 
 
 - **SVG File Visualization** 
-![demo](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif3.gif)
+![https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif3.gif](https://github.com/Ragosorio/VisualSVG/blob/main/images/Gif3.gif)
 
 
 - **SVG File Click**
-![demo](https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif4.gif)
+![https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/Gif4.gif](https://github.com/Ragosorio/VisualSVG/blob/main/images/Gif4.gif)
 
 
 ## Requirements
