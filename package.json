@@ -8,7 +8,7 @@
     "url": "https://github.com/Ragosorio/VisualSVG"
   },
   "publisher": "ragosorio",
-  "icon": "./src/imgs/logo.png",
+  "icon": "imgs/logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
