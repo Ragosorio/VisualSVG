@@ -2,7 +2,9 @@
   "name": "visualsvg",
   "displayName": "VisualSVG",
   "description": "The most advanced SVG viewer in VSCODE.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": "https://github.com/Ragosorio/VisualSVG",
+  "publisher": "ragosorio",
   "engines": {
     "vscode": "^1.87.0"
   },
