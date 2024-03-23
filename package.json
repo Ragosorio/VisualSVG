@@ -3,8 +3,12 @@
   "displayName": "VisualSVG",
   "description": "The most advanced SVG viewer in VSCODE.",
   "version": "1.0.0",
-  "repository": "https://github.com/Ragosorio/VisualSVG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ragosorio/VisualSVG"
+  },
   "publisher": "ragosorio",
+  "icon": "https://github.com/Ragosorio/VisualSVG/blob/main/src/imgs/logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -25,11 +29,11 @@
     "menus": {
       "editor/context": [
         {
-            "command": "extension.showSelectedSVGByCode",
-            "when": "editorHasSelection",
-            "group": "navigation"
+          "command": "extension.showSelectedSVGByCode",
+          "when": "editorHasSelection",
+          "group": "navigation"
         }
-    ],
+      ],
       "explorer/context": [
         {
           "command": "extension.viewSvg",
