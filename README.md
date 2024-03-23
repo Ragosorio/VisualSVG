@@ -4,11 +4,18 @@
 
 ## Features
 
-- **SVG Visualization**: View SVG files directly within the Visual Studio Code editor, allowing for convenient inspection and editing.
-- **SVG Hover Information**: Hover over SVG elements to display relevant information and attributes, aiding in understanding and navigation.
-- **SVG File Navigation**: Easily navigate through SVG files with intuitive hover-based navigation controls.
-- **SVG File Size Adjustment**: Adjust the size of SVG files directly within the editor to optimize viewing and editing experience.
-- **SVG File Metadata Display**: Display metadata and properties of SVG files for quick reference and analysis.
+- **SVG Hover Visualization**
+![]()
+
+- **SVG Click Visualization**
+![]()
+
+- **SVG File Visualization** 
+![]()
+
+- **SVG File Click**
+![]()
+
 
 ## Requirements
 
